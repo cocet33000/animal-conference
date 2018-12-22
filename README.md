@@ -1,3 +1,3 @@
 # あにまる会議
-(./image1.png)
+(https://github.com/cocet33000/animal-conference/image1.png)
 コニカミノルタハッカソン2018最優秀賞

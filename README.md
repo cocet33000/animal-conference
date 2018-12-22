@@ -1,3 +1,3 @@
 # あにまる会議
-![image1](https://user-images.githubusercontent.com/31382151/50374506-a2bdf400-0632-11e9-8b76-d57d389dd094.png)
+![image1](https://user-images.githubusercontent.com/31382151/50374541-f6c8d880-0632-11e9-8092-d1a75c31c3a6.png)
 コニカミノルタハッカソン2018最優秀賞
